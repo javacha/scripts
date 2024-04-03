@@ -1,0 +1,2 @@
+watch nmcli dev wifi
+
