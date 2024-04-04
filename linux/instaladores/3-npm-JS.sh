@@ -18,6 +18,11 @@ sudo apt install npm
 wget -qO- https://get.pnpm.io/install.sh | sh -
 
 
+## YARN 
+sudo apt install yarn --yes
+
+
+
 ## DENO
 curl -fsSL https://deno.land/install.sh | sh
 echo " adding deno to PATH... "
@@ -48,5 +53,8 @@ echo "  "
 echo " nodejs "
 echo " npm "
 echo " pnpm "
+echo " yarn "
+echo " deno "
+echo " supabase "
 echo "  "
 
